@@ -1,0 +1,5 @@
+@nomiclabs/hardhat-ethers
+ethers
+@nomiclabs/hardhat-waffle
+ethereum-waffle
+chai
